@@ -1,10 +1,10 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "12",
+	"short_name": "12",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
 		{
